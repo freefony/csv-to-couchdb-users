@@ -1,0 +1,11 @@
+{
+  "name": "csv-to-couch-user",
+  "version": "0.0.1-alpha.1",
+  "description": "convert csv rows to couchdb users",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "femi@field.partners",
+  "license": "ISC"
+}
